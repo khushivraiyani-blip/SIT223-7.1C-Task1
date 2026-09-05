@@ -54,4 +54,4 @@ pipeline {
     }
 }
 
-// Testing automatic Jenkins trigger
+// Testing automatic Jenkins trigger - commit 2
